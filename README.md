@@ -1,6 +1,5 @@
 # Medallion Lakehouse Pipeline (PySpark + Delta Lake)
 
-![CI](https://github.com/geethalakshmi579/medallion-lakehouse-pipeline/actions/workflows/ci.yml/badge.svg)
 
 An end-to-end **bronze → silver → gold** lakehouse pipeline built with
 PySpark and Delta Lake — the architecture pattern behind most Databricks
